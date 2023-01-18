@@ -110,7 +110,7 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   transition-property: color;
-  transition-duration: 251ms;
+  transition-duration: 1000ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -230,13 +230,13 @@ img {
     top: 24px;
     right: 16px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .mobile-menu-icon {
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -388,7 +388,7 @@ img {
     border-radius: 50%;
     background-color: var(--primarybrand-color);
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -778,7 +778,7 @@ img {
     border-radius: 50%;
     background-color: var(--primarybrand-color);
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -927,7 +927,7 @@ img {
     border: 1px solid var(--light-slate-color);
     border-radius: 4px;
     transition-property: color, border;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -948,14 +948,14 @@ img {
     color: var(--light-slate-color);
     border-radius: 4px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .customers-list-icon {
     fill: var(--light-slate-color);
     transition-property: fill;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1017,7 +1017,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1077,7 +1077,7 @@ img {
     list-style: none;
     justify-content: center;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1185,7 +1185,7 @@ img {
     border: 1px solid var(--cloud-color);
     border-radius: 4px;
     transition-property: box-shadow, background-color, color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1256,8 +1256,8 @@ img {
     height: 100%;
     background-color: #3f51b5;
     transform: translateY(101%);
-    transition: transform 251ms cubic-bezier(0.4, 0, 0.2, 1),
-      opacity 251ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1);
     opacity: 0;
   }
 
@@ -1297,7 +1297,7 @@ img {
     text-decoration: none;
     display: block;
     transition-property: box-shadow, background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1530,7 +1530,7 @@ padding-bottom: 12px;
     border-radius: 50%;
     background-color: var(--primarybrand-color);
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1620,7 +1620,7 @@ padding-bottom: 12px;
     border: 1px solid var(--light-slate-color);
     border-radius: 4px;
     transition-property: color, border;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1633,14 +1633,14 @@ padding-bottom: 12px;
     color: var(--light-slate-color);
     border-radius: 4px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .customers-list-icon {
     fill: var(--light-slate-color);
     transition-property: fill;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1700,7 +1700,7 @@ padding-bottom: 12px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -1759,7 +1759,7 @@ padding-bottom: 12px;
     list-style: none;
     justify-content: center;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2127,7 +2127,7 @@ padding-bottom: 12px;
     border: 1px solid var(--cloud-color);
     border-radius: 4px;
     transition-property: box-shadow, background-color, color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2196,8 +2196,8 @@ padding-bottom: 12px;
     height: 100%;
     background-color: #3f51b5;
     transform: translateY(101%);
-    transition: transform 251ms cubic-bezier(0.4, 0, 0.2, 1),
-      opacity 251ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1);
     opacity: 0;
   }
 
@@ -2242,7 +2242,7 @@ padding-bottom: 12px;
     text-decoration: none;
     display: block;
     transition-property: box-shadow, background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2377,7 +2377,7 @@ padding-bottom: 12px;
     padding-top: 24px;
     padding-bottom: 24px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2406,7 +2406,7 @@ padding-bottom: 12px;
     padding-top: 24px;
     padding-bottom: 24px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2556,7 +2556,7 @@ padding-bottom: 12px;
     border-radius: 50%;
     background-color: var(--primarybrand-color);
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2670,7 +2670,7 @@ padding-bottom: 12px;
     border: 1px solid var(--light-slate-color);
     border-radius: 4px;
     transition-property: color, border;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2683,14 +2683,14 @@ padding-bottom: 12px;
     color: var(--light-slate-color);
     border-radius: 4px;
     transition-property: color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
   .customers-list-icon {
     fill: var(--light-slate-color);
     transition-property: fill;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2746,7 +2746,7 @@ padding-bottom: 12px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2799,7 +2799,7 @@ padding-bottom: 12px;
     list-style: none;
     justify-content: center;
     transition-property: background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2829,7 +2829,7 @@ padding-bottom: 12px;
     border: 1px solid var(--cloud-color);
     border-radius: 4px;
     transition-property: box-shadow, background-color, color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
@@ -2898,8 +2898,8 @@ padding-bottom: 12px;
     height: 100%;
     background-color: #3f51b5;
     transform: translateY(101%);
-    transition: transform 251ms cubic-bezier(0.4, 0, 0.2, 1),
-      opacity 251ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 1000ms cubic-bezier(0.4, 0, 0.2, 1);
     opacity: 0;
   }
 
@@ -2936,7 +2936,7 @@ padding-bottom: 12px;
   .portfolio-link {
     display: block;
     transition-property: box-shadow, background-color;
-    transition-duration: 251ms;
+    transition-duration: 1000ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 
